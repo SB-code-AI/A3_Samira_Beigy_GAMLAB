@@ -1,3 +1,12 @@
+'''
+salam bande nomre dadam ama say konid run konid va report konid adad haro 
+moafagh bashid
+
+
+
+'''
+
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
